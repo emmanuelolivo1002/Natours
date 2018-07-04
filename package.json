@@ -18,5 +18,9 @@
   "homepage": "https://github.com/emmanuelolivo1002/Natours#readme",
   "devDependencies": {
     "node-sass": "^4.9.0"
+  },
+  "dependencies": {
+    "boom": "^7.2.0",
+    "hoek": "^5.0.3"
   }
 }
